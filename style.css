@@ -1,0 +1,158 @@
+body {
+    background-image: url(image/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.picture {
+
+    margin-left: 800px;
+    position: relative;
+    bottom: 38px;
+    
+}
+
+.picture img{
+            padding: 5px;
+
+}
+
+
+
+
+.nav-bar a:hover {
+    color: red;
+}
+
+
+
+
+
+.nav-bar nav {
+
+
+    margin-left: 120px;
+    margin-top: 45px;
+    height: 100px;
+
+
+
+
+}
+
+.nav-bar a {
+
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+.main {
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    position: relative;
+    top: 50px;
+
+
+}
+
+.main h1 {
+
+    font-size: 60px;
+    letter-spacing: 0px;
+    color: black;
+    font-weight: bold;
+
+}
+
+
+
+
+.special {
+
+
+    height: 700px;
+    padding-left: 50px;
+    margin: 100px;
+    width: 70%;
+
+
+}
+
+
+.special h1 {
+
+    color: #f7eddf;
+    font-size: 70px;
+    font-weight: bold;
+    padding-top: 20px;
+
+}
+
+
+.tyre {
+    text-indent: 90px;
+
+}
+
+
+.car {
+    position: relative;
+    bottom: 45px;
+
+}
+
+
+.special h3 {
+
+    color: #f7eddf;
+    position: relative;
+    bottom: 40px;
+    text-indent: 25px;
+    font-size: 20px;
+}
+
+
+
+.para {
+    color: white;
+    width: 50%;
+    font-size: 20px;
+    text-indent: 30px;
+
+}
+
+.para ::first-letter {
+    font-weight: bold;
+}
+
+
+
+.jake {
+
+    position: relative;
+    top: 40px;
+    margin-left: 50px;
+    border: 1px solid none;
+    width: 30%;
+    padding: 25px;
+    color: white;
+    background-color: red;
+    text-decoration: none;
+
+}
